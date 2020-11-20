@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Docmo</string>
+    <string name="lewati">Lewati</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="pilih_role">Pilih Role Favoritmu</string>
+    <string name="pilih_role_desc">Perkenalkan siapa anda sebenarnya</string>
+    <string name="detektif_mode">Detektif Mode</string>
+    <string name="detektif_mode_desk">Temui Kemungkinan Adanya Kerusakan\nPada Sepeda Motor Dengan Mudah</string>
+    <string name="jelajahi_tips">Jelajahi Tips</string>
+    <string name="jelajahi_tips_desk">Jangan lewatkan cara agar kondisi\nmotor tetap terjaga</string>
+    <string name="mulai">Mulai</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="daftar_akun">Daftar Akun Baru</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="alamat_email">Alamat E-mail</string>
+    <string name="role">Role</string>
+    <string name="role_mode">Siapakah anda?</string>
+    <string name="photo">Foto Profil</string>
+    <string name="selamat_datang">Selamat Bergabung,\nUser</string>
+    <string name="simpan">Simpan dan Lanjutkan</string>
+    <string name="role_user">Role User</string>
+    <string name="tips_judul">Tips Hari Ini</string>
+    <string name="user">user</string>
+    <string name="karburator_btn">Karburator</string>
+    <string name="injeksi_btn">Injeksi</string>
+    <string name="pilih_jenis_motor">Pilih Jenis Sepeda Motor</string>
+    <string name="sepeda_motor_karbu">Sepeda Motor Jenis\nKarburator</string>
+    <string name="sepeda_motor_injek">Sepeda Motor Jenis\nInjeksi</string>
+    <string name="ceklis_gejala">Ceklis Gejala</string>
+    <string name="tidak_yakin_show">Tidak Yakin</string>
+    <string name="tidak_pernah_angka">0</string>
+    <string name="jarang_angka">0,4</string>
+    <string name="sering_angka">0,8</string>
+    <string name="selalu_angka">1</string>
+    <string name="tidak_pernah_desc">0 = Tidak Pernah</string>
+    <string name="sering_desc">0,8 = Sering</string>
+    <string name="jarang_desc">0,4 = Jarang</string>
+    <string name="selalu_desc">1 = Selalu Terjadi</string>
+    <string name="gejala_satu">Mesin tidak bisa / sulit dihidupkan</string>
+    <string name="mesin_mati_detect">Mesin mati tiba-tiba</string>
+    <string name="kelistrikan_mati_detect">Klakson, lampu depan belakang,  sein mati</string>
+    <string name="tersendat_detect">Mesin hidup tersendat-sendat</string>
+    <string name="tenaga_lemah_detect">Tenaga dan akselerasi mesin lemah</string>
+    <string name="keluar_asap_detect">Keluar asap dari knalpot</string>
+    <string name="mesin_kasar_detect">Suara mesin kasar</string>
+    <string name="deteksi_bttn">Deteksi</string>
+    <string name="kemungkinan_text">Kemungkinan kerusakan pada</string>
+    <string name="kepercayaan_text">Dengan tingkat persentase\nkepercayaan</string>
+    <string name="deteksi_lagi">Deteksi lagi</string>
+    <string name="edit_profile">Profile</string>
+    <string name="bttn_simpan">Simpan Perubahan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="value_0">0</string>
+    <string name="value_04">0.4</string>
+    <string name="value_02">0.2</string>
+    <string name="value_06">0.6</string>
+    <string name="value_08">0.8</string>
+    <string name="value_1">1</string>
+    <string name="value_02_desc">0,2 = Sangat Jarang</string>
+    <string name="value_06_desc">0,6 = Sering</string>
+    <string name="value_08_desc">0,8 = Sangat Sering</string>
+    <string name="btn_kembali">Home</string>
+    <string name="logout">Logout</string>
+    <string name="GK1">Performa mesin berkurang</string>
+    <string name="GK2">Mesin tidak mau hidup</string>
+    <string name="GK3">Suara berlebihan pada knalpot</string>
+    <string name="GK4">Suara berlebihan pada mesin</string>
+    <string name="GK5">Panas mesin berlebihan</string>
+    <string name="GK6">Oli berkurang</string>
+    <string name="GK7">Bahan bakar boros</string>
+    <string name="GK8">Suara meletus saat gas turun</string>
+    <string name="GK9">Tekanan oli kecil</string>
+    <string name="GK10">Motor starter tidak bertenaga</string>
+    <string name="GK11">Kopling sering slip</string>
+    <string name="GK12">Transmisi sering slip saat ganti gigi</string>
+    <string name="GK13">Persneling susah ganti gigi</string>
+    <string name="GK14">Air radiator cepat berkurang</string>
+</resources>

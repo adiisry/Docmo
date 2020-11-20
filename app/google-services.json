@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180702824295",
+    "firebase_url": "https://docmo-32601.firebaseio.com",
+    "project_id": "docmo-32601",
+    "storage_bucket": "docmo-32601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180702824295:android:7f9289d1865f0b7a6111c2",
+        "android_client_info": {
+          "package_name": "com.aditech.docmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180702824295-49h2923vnuom85vk4741basg7bj3ndq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtOTkoXFLkOe0kuMWPW-v9FkH0PPWCtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180702824295-49h2923vnuom85vk4741basg7bj3ndq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
